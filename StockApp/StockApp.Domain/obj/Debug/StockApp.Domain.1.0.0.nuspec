@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StockApp.Domain</id>
+    <version>1.0.0</version>
+    <authors>StockApp.Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="18294480d42ab43e2f40038fe6ddff1b3ed07e84" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\tpicoma\tp2-stockapp\StockApp\StockApp.Domain\bin\Debug\net6.0\StockApp.Domain.dll" target="lib\net6.0\StockApp.Domain.dll" />
+  </files>
+</package>
